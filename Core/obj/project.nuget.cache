@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrbW92OskHIzEH/jJlz9RGOxySvSeCQ7c9hRXMohH9CBCPOD+nMM+2yKJ50ij4krruNTZEGd0b52a2yt0Se58g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\christian.winters\\skinet\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\christian.winters\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\christian.winters\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\christian.winters\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\christian.winters\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\christian.winters\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\christian.winters\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\christian.winters\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

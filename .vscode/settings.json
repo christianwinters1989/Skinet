@@ -1,0 +1,6 @@
+{
+    "problems.showCurrentInStatus": true,
+    "problems.decorations.enabled": true,
+    "omnisharp.disableMSBuildDiagnosticWarning": false,
+    "debug.onTaskErrors": "showErrors"
+}
